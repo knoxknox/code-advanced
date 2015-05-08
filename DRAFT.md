@@ -29,6 +29,9 @@
 - Hashie, Struct, OpenStruct, Virtus, Hamster
 
 ## Extra
+- admin
+- searches
+- serializers
 - actions
 - calculators
 - commands
