@@ -7,6 +7,7 @@
 - controllers
 - decorators
 - dto
+- entities
 - errors
 - form_objects
 - helpers
@@ -25,7 +26,6 @@
 - state_objects
 - sweepers
 - uploaders
-- use_cases
 - validators
 - value_objects
 - views
@@ -35,13 +35,7 @@
 PORO, Hashie, Struct, OpenStruct, Virtus, Hamster
 
 ## DDD
-- aggregates
-- entities
-- factories
-- modules
-- repositories
-- services
-- value_objects
+aggregates, entities, factories, modules, repositories, services, value_objects
 
 ## Principles
 - DDD
