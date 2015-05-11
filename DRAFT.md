@@ -1,48 +1,38 @@
 ## App
+- admin
 - api
-- assets
-- authorizers
+- calculators
 - cells
+- commands
 - controllers
 - decorators
+- dto
 - errors
 - form_objects
 - helpers
-- machines
 - mailers
+- mappers
 - models
+- observers
+- page_objects
+- policies
 - presenters
-- queries
+- query_objects
 - repositories
+- searches
+- serializers
 - services
+- state_objects
+- sweepers
+- uploaders
+- use_cases
 - validators
 - value_objects
 - views
 - workers
 
-## DTO
-- Hash
-- PORO
-- FormObject
-- PageObject
-- ValueObject
-- Hashie, Struct, OpenStruct, Virtus, Hamster
-
-## Extra
-- admin
-- searches
-- serializers
-- actions
-- calculators
-- commands
-- domain_objects
-- mappers
-- observers
-- policies
-- request_objects
-- sweepers
-- uploaders
-- use_cases
+## DTO lib(s)
+PORO, Hashie, Struct, OpenStruct, Virtus, Hamster
 
 ## DDD
 - aggregates
@@ -76,7 +66,6 @@
 - http://victorsavkin.com/ddd
 - https://speakerdeck.com/skwp/domain-driven-rails
 - http://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
-
 - http://www.slideshare.net/creatop/railsway
 - http://blog.lunarlogic.io/2013/declutter-lib-directory/
 - http://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications/
