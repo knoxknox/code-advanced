@@ -1,37 +1,5 @@
-## App
-- api
-- cells
-- classes
-- controllers
-- decorators
-- entities
-- exceptions
-- form_objects
-- helpers
-- mailers
-- models
-- observers
-- policies
-- presenters
-- query_objects
-- repositories
-- searches
-- serializers
-- services
-- state_objects
-- structs
-- sweepers
-- uploaders
-- validators
-- value_objects
-- views
-- workers
-
-## DTO lib(s)
+## Structs (DTO)
 PORO, Hashie, Struct, OpenStruct, Virtus, Hamster
-
-## DDD
-aggregates, entities, factories, modules, repositories, services, value_objects
 
 ## Principles
 - DDD
@@ -61,13 +29,9 @@ aggregates, entities, factories, modules, repositories, services, value_objects
 - http://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications/
 - http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 
-# admin
 # api
-# calculators
-Contains complex calculations for your business rules in isolation.
 # cells
 Encapsulate parts of your page into separate widgets. Mostly, used in views to replace a helper/partial mess.
-# commands
 # controllers
 Everything related to parsing requests, sessions, protection, rendering templates, redirecting, flash messages.
 # decorators
@@ -78,14 +42,12 @@ For example you can wrap your models to extract presentation related logic from 
 Represents data as definite structures that carries data between processes.
 Does not have any behavior, manipulates data only via accessors and mutators.
 # entities
-# errors
 # form_objects
 Decouples your models from forms. Contains validations and nested models.
 Complex persistence logic in the form could be combined with service object.
 # helpers
 Contains reusable methods for views. Should not depend to any particular model.
 # mailers
-# mappers
 # models
 Collection of classes whose purpose is to store and fetch data.
 Should represents some storage engine (Mongoid/ROM/ActiveRecord).
