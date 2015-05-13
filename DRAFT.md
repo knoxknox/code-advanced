@@ -1,6 +1,7 @@
 ## App
 - api
 - cells
+- classes
 - controllers
 - decorators
 - entities
@@ -18,6 +19,7 @@
 - serializers
 - services
 - state_objects
+- structs
 - sweepers
 - uploaders
 - validators
