@@ -117,10 +117,10 @@
 </table>
 
 ## Books
+- http://www.ozon.ru/context/detail/id/2457392/
 - http://www.ozon.ru/context/detail/id/4884925/
 - http://www.ozon.ru/context/detail/id/5508646/
 - http://www.ozon.ru/context/detail/id/5800704/
-- http://www.ozon.ru/context/detail/id/20217137/
 - http://www.ozon.ru/context/detail/id/21916535/
 - http://www.ozon.ru/context/detail/id/30958003/
 - http://www.ozon.ru/context/detail/id/31079082/
