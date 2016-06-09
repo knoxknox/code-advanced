@@ -134,7 +134,8 @@
 - https://speakerdeck.com/skwp/domain-driven-rails
 - http://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
 - http://www.slideshare.net/creatop/railsway
-- http://blog.lunarlogic.io/2013/declutter-lib-directory/
-- http://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications/
-- http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+- http://blog.lunarlogic.io/2013/declutter-lib-directory
+- https://speakerdeck.com/andypike/building-maintainable-rails-apps
+- http://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications
+- http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models
 - https://hsto.org/files/68f/47a/8dc/68f47a8dca0d4fa2b904ca407c45306c.png
