@@ -130,8 +130,8 @@
 - https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
 - http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
 - http://code.tutsplus.com/tutorials/how-to-write-code-that-embraces-change--net-29716
-- http://victorsavkin.com/ddd
 - https://speakerdeck.com/skwp/domain-driven-rails
+- https://speakerdeck.com/andrewhao/highly-cohesive-loosely-coupled-and-very-awesome
 - http://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
 - http://www.slideshare.net/creatop/railsway
 - http://blog.lunarlogic.io/2013/declutter-lib-directory
