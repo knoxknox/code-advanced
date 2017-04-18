@@ -1,120 +1,19 @@
 # mvc-advanced
 
-## App
-<table>
-  <tr>
-    <th>Layer</th>
-    <th>Responsibility</th>
-  </tr>
-  <tr>
-    <td>api</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>cells</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>classes</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>controllers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>decorators</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>entities</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>exceptions</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>form_objects</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>helpers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>mailers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>models</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>observers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>policies</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>presenters</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>query_objects</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>repositories</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>searches</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>serializers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>services</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>state_objects</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>structs</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>sweepers</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>uploaders</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>validators</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>value_objects</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>views</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>workers</td>
-    <td></td>
-  </tr>
-</table>
+Move away from "Rails Way" and add object oriented design to your app.<br/>
+This is a collection of resources that will help to build a maintainable apps.
+
+## Intro
+Organize your application by [domains](https://goo.gl/E1rl45).<br/>
+Don't put all of your app code in [layers](https://goo.gl/8rWtzA).<br/>
+Why? This makes your design low-cohesive instead of high-cohesive.<br/>
+Don't confuse with the concept of loose-coupling (this is not the same).<br/>
+
+Let's discuss what each concept means:
+- highly cohesive - elements of a module are strongly related to each other;
+- loosely coupled - modules minimize their deps so that they are easily modifiable;
+
+Don't limit yourself by your framework, read more about: DDD, PORO, CQRS, GRASP, SOLID.
 
 ## Books
 - http://www.ozon.ru/context/detail/id/2457392/
@@ -129,13 +28,13 @@
 - https://github.com/dapi/good_programming
 - https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
 - http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
-- http://code.tutsplus.com/tutorials/how-to-write-code-that-embraces-change--net-29716
+- https://code.tutsplus.com/articles/how-to-write-code-that-embraces-change--net-29716
 - https://speakerdeck.com/skwp/domain-driven-rails
 - https://speakerdeck.com/andrewhao/highly-cohesive-loosely-coupled-and-very-awesome
-- http://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
-- http://www.slideshare.net/creatop/railsway
-- http://blog.lunarlogic.io/2013/declutter-lib-directory
+- https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
+- https://www.slideshare.net/creatop/railsway
+- http://blog.lunarlogic.io/2013/declutter-lib-directory/
 - https://speakerdeck.com/andypike/building-maintainable-rails-apps
-- http://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications
-- http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models
+- https://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications/
+- http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
 - https://hsto.org/files/68f/47a/8dc/68f47a8dca0d4fa2b904ca407c45306c.png
