@@ -23,16 +23,20 @@ Don't limit yourself by your framework, read more about: DDD, PORO, CQRS, GRASP,
 - http://www.ozon.ru/context/detail/id/138551500/
 
 ## Resources
-- https://github.com/dapi/good_programming
-- https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
-- http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
-- https://code.tutsplus.com/articles/how-to-write-code-that-embraces-change--net-29716
-- https://speakerdeck.com/skwp/domain-driven-rails
-- https://speakerdeck.com/andrewhao/highly-cohesive-loosely-coupled-and-very-awesome
-- https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
-- https://www.slideshare.net/creatop/railsway
-- http://blog.lunarlogic.io/2013/declutter-lib-directory/
-- https://speakerdeck.com/andypike/building-maintainable-rails-apps
+- https://hsto.org/files/68f/47a/8dc/68f47a8dca0d4fa2b904ca407c45306c.png
 - https://karolgalanciak.com/blog/2013/10/06/structuring-rails-applications/
 - http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
-- https://hsto.org/files/68f/47a/8dc/68f47a8dca0d4fa2b904ca407c45306c.png
+
+## Principles
+- https://github.com/dapi/good_programming
+- http://blog.siyelo.com/solid-principles-in-ruby/
+- http://en.wikipedia.org/wiki/GRASP_(object-oriented_design)
+- http://blog.byndyu.ru/2014/07/command-and-query-responsibility.html
+- https://medium.com/@ccverak/from-monolithics-to-microservices-e87841ce11fd
+
+## Presentations
+- https://www.slideshare.net/creatop/railsway
+- https://speakerdeck.com/skwp/domain-driven-rails
+- https://speakerdeck.com/andypike/building-maintainable-rails-apps
+- https://speakerdeck.com/andrewhao/highly-cohesive-loosely-coupled-and-very-awesome
+- https://www.slideshare.net/dwhelan/domain-driven-design-and-hexagonal-srchitecture-with-rails
