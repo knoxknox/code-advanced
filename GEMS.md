@@ -12,6 +12,7 @@ They are grouped by well known 'patterns' in single table.
 - https://github.com/kaminari/kaminari
 - https://github.com/plataformatec/responders
 - https://github.com/activeadmin/inherited_resources
+- https://github.com/c3gdlk/simple_resource_controller
 
 ### decorators
 - https://github.com/drapergem/draper
