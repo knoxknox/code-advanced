@@ -4,8 +4,8 @@ Move away from "Rails Way" and add object oriented design to your app.<br/>
 This is a collection of resources that will help to build a maintainable apps.
 
 ## Intro
-Organize your application by [domains](https://goo.gl/qWnpHZ).<br/>
-Don't put all of your app code in [layers](https://goo.gl/8rWtzA).<br/>
+Organize your application by [domains](http://bit.ly/2HEznMn).<br/>
+Don't put all of your app code in [layers](http://bit.ly/2Hw5ArC).<br/>
 Why? This makes your design low-cohesive instead of high-cohesive.<br/>
 Don't confuse with the concept of loose-coupling (this is not the same).<br/>
 
