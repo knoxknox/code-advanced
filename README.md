@@ -16,11 +16,11 @@ Let's discuss what each concept means:
 Don't limit yourself by your framework, read more about: DDD, PORO, CQRS, GRASP, SOLID.
 
 ## Books
-- http://www.ozon.ru/context/detail/id/2457392/
-- http://www.ozon.ru/context/detail/id/4884925/
-- http://www.ozon.ru/context/detail/id/5800704/
-- http://www.ozon.ru/context/detail/id/30958003/
-- http://www.ozon.ru/context/detail/id/138551500/
+- https://www.amazon.com/Agile-Principles-Patterns-Practices-C/dp/0131857258
+- https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+- https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612
+- https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420
+- https://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330
 
 ## Resources
 - https://hsto.org/files/68f/47a/8dc/68f47a8dca0d4fa2b904ca407c45306c.png
